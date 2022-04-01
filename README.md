@@ -7,13 +7,15 @@ Each vaccine centre will operate locally to register and allot vaccines. The bas
 
 The local server must store the data of around 100 people where the allocated online registration data will be loaded onto the local server of that local centre. Verification of the data is done based on the details provided by the patient. Once completed, the data of the vaccinated will be sent back for future use and reference.
 
-# Folder Structure
-|FOLDER|DESCRIPTION|
-|:-----|:----------|
-|1_Requirements|Documents detailing requirements|
-|2_Architecture|Structural and Behavioural UML|
-|3_Implementation|All the code is written here|
-|4_TestPlanAndOutput|Documents with test plans and outputs|
+
+## Folder Structure
+|Folder             | Description |
+|-------------------| -----------------------------------------|
+| `1_Requirements`   | Documents detailing requirements and research|
+| `2_Architecture`         | Documents specifying design details|
+| `3_Implementation` | All code and documentation|
+| `4_Testplan`      | Documents with test plans and procedures|
+|  `Images`       | Project Images |
 
 ## Aim
 * Smoother vaccination registration process
@@ -30,3 +32,4 @@ The local server must store the data of around 100 people where the allocated on
 ## Output
 * Vaccinated data log is updated and new registrations are added to the end of the pre data list
 * List of vaccinated patients along with total vials consumed is printed
+
