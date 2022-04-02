@@ -35,7 +35,8 @@
 | `2_Architecture`         | Documents specifying design details|
 | `3_Implementation` | All code and documentation|
 | `4_TestplanAndOutput`      | Documents with test plans and outputs|
-|  `Images`       | Project Images |
+| `5_Report`         | Document consistig of all details|
+| `6_Images`       |Document consisting of Output Images |
 
 ## Learning Resources
 1.Tutorials point
