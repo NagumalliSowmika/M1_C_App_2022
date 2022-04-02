@@ -14,7 +14,7 @@ The local server must store the data of around 100 people where the allocated on
 | `1_Requirements`   | Documents detailing requirements and research|
 | `2_Architecture`         | Documents specifying design details|
 | `3_Implementation` | All code and documentation|
-| `4_Testplan`      | Documents with test plans and procedures|
+| `4_TestplanAndOutput`      | Documents with test plans and outputs|
 |  `Images`       | Project Images |
 
 ## Aim
@@ -33,3 +33,9 @@ The local server must store the data of around 100 people where the allocated on
 * Vaccinated data log is updated and new registrations are added to the end of the pre data list
 * List of vaccinated patients along with total vials consumed is printed
 
+## Learning Resources
+1.Tutorials point
+
+2.Geeksforgeeks
+
+3.future skills
