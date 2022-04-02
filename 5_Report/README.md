@@ -27,4 +27,15 @@ Verification of the dat r online basic registration will be mostly done in the d
 * Encryption is not enabled to protect the data.
 * OTP verification is not activated for new registrations.
 
+## SWOT Analysis
+![SWOT analysis](https://user-images.githubusercontent.com/89698000/132556785-561d19ab-c53d-4658-8138-401da25ce78e.png)
+## 4 W's and 1 H
+### Who
+* Patient who needs to be vaccinated.
+### What
+* Verify the details of the patient using the alloted data.
+### When
+* During the time alloted for vaccination.
+### Where
+* Local vaccination centre.
 
