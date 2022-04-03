@@ -19,8 +19,8 @@
 
 # Badges
 
-| Cpp check | Code Inspector | CI | Unity |
-| --- | --- | --- | --- |
+| Cpp check | 
+| --- | 
 | [![cppAnalysis](https://github.com/NagumalliSowmika/M1_Vaccine_Register/actions/workflows/cppanalysis.yml/badge.svg)](https://github.com/NagumalliSowmika/M1_Vaccine_Register/actions/workflows/cppanalysis.yml) |
 
 ## Folder Structure
