@@ -18,15 +18,10 @@
 * List of vaccinated patients along with total vials consumed is printed
 
 # Badges
-* Codacy - Static code analysis
- [![Codacy Badge](https://app.codacy.com/project/badge/Grade/b44c801786244537b3b39aef3b101b1b)](https://www.codacy.com/gh/Smrutthi/M1_NumberConversion/dashboardutm_source=github.com&amp;utm_medium=referral&amp;utm_content=Smrutthi/M1_NumberConversion&amp;utm_campaign=Badge_Grade)
-* Codiga - Static code analysis
-![Codiga Badge](https://api.codiga.io/project/32209/score/svg)![Codiga score](https://api.codiga.io/project/32209/status/svg)
 
- Build | Unity test | cppcheck | Valgrind | Git Inspector | Analysis
- -------|-------------|----------|-----------|-------------|----------
- [![Build CI - Linux](https://github.com/Smrutthi/M1_NumberConversion/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/Smrutthi/M1_NumberConversion/actions/workflows/c-cpp.yml)[![Build CI - Windows](https://github.com/Smrutthi/M1_Number_Conversion/actions/workflows/Build_Windows.yml/badge.svg)](https://github.com/Smrutthi/M1_Number_Conversion/actions/workflows/Build_Windows.yml)|[![Unit testing](https://github.com/Smrutthi/M1_NumberConversion/actions/workflows/unit.yml/badge.svg)](https://github.com/Smrutthi/M1_NumberConversion/actions/workflows/unit.yml)|[![cppcheck-action](https://github.com/Smrutthi/M1_NumberConversion/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/Smrutthi/M1_NumberConversion/actions/workflows/cppcheck.yml)|[![Valgrind](https://github.com/Smrutthi/M1_Number_Conversion/actions/workflows/valgrind.yml/badge.svg)](https://github.com/Smrutthi/M1_Number_Conversion/actions/workflows/valgrind.yml)|[![Contribution Check - Git Inspector](https://github.com/Smrutthi/M1_Number_Conversion/actions/workflows/git_inspector.yml/badge.svg)](https://github.com/Smrutthi/M1_Number_Conversion/actions/workflows/git_inspector.yml)|[![Analysis](https://github.com/Smrutthi/M1_NumberConversion/actions/workflows/Analysis.yml/badge.svg)](https://github.com/Smrutthi/M1_NumberConversion/actions/workflows/Analysis.yml)
-
+| Cpp check | 
+| --- | 
+| [![cppAnalysis](https://github.com/NagumalliSowmika/M1_Vaccine_Register/actions/workflows/cppanalysis.yml/badge.svg)](https://github.com/NagumalliSowmika/M1_Vaccine_Register/actions/workflows/cppanalysis.yml) |
 
 ## Folder Structure
 |Folder             | Description |
